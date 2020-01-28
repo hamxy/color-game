@@ -31,6 +31,7 @@ function selected() {
         numSquares = 3;
         this.classList.add("selected");
         hardBtn.classList.remove("selected");
+        newGame();
         // colors = generateRandomColors(numSquares);
         // pickedColor = colors[Math.floor(Math.random() * numSquares)];
         // colorDisplay.textContent = pickedColor.toUpperCase();
@@ -39,6 +40,7 @@ function selected() {
         numSquares = 6;
         this.classList.add("selected");
         easyBtn.classList.remove("selected");
+        newGame();
         // colors = generateRandomColors(numSquares);
         // pickedColor = colors[Math.floor(Math.random() * numSquares)];
         // colorDisplay.textContent = pickedColor.toUpperCase();
