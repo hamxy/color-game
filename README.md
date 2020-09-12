@@ -4,4 +4,4 @@ My very first JS project.
 
 Live:
 
-https://kromciuszek.github.io/color-game/
+https://hamxy.github.io/color-game/
